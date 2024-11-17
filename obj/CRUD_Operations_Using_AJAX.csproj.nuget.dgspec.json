@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj": {}
+    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj": {
+    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj",
+        "projectUniqueName": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj",
         "projectName": "CRUD_Operations_Using_AJAX",
-        "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj",
+        "projectPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\CRUD_Operations_Using_AJAX.csproj",
         "packagesPath": "C:\\Users\\JOBAYER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\obj\\",
+        "outputPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOBAYER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -25,5 +25,6 @@ namespace CRUD_Operations_Using_AJAX.Models
 
         public int Amount { get; set; }
 
+        public DateTime Date { get; set; }
     }
 }

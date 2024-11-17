@@ -1,0 +1,20 @@
+@model IEnumerable<CRUD_Operations_Using_AJAX.Models.Transaction>
+<h1 class="text-center"><i class="fas fa-comment-dollar text-success"></i>Transaction History</h1>
+    
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.AccountNumber)</th>
+            <th>@Html.DisplayNameFor(Model => Model.BeneficiaryName)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Date)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Amount)</th>
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-success text-white">
+                    <i class="fas fa-random"></i>
+                    New Transaction
+                    </a>
+            </th>
+        <tr>                                                                                      
+    </thead>
+</table>

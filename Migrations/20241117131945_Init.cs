@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace CRUD_Operations_Using_AJAX.Migrations
 {
-    public partial class init : Migration
+    public partial class Init : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -16,7 +17,8 @@ namespace CRUD_Operations_Using_AJAX.Migrations
                     BeneficiaryName = table.Column<string>(type: "nvarchar(100)", nullable: true),
                     BankName = table.Column<string>(type: "nvarchar(100)", nullable: true),
                     SWIFT_Code = table.Column<string>(type: "nvarchar(8)", nullable: true),
-                    Amount = table.Column<int>(nullable: false)
+                    Amount = table.Column<int>(nullable: false),
+                    Date = table.Column<DateTime>(nullable: false)
                 },
                 constraints: table =>
                 {

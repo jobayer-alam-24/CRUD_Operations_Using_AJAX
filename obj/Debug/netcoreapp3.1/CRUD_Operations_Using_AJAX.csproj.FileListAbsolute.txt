@@ -67,3 +67,7 @@ C:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\bin\Debug\net
 C:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\obj\Debug\netcoreapp3.1\Razor\Views\Transaction\Index.cshtml.g.cs
+c:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\obj\Debug\netcoreapp3.1\Razor\Views\Transaction\AddOrEdit.cshtml.g.cs
+c:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\obj\Debug\netcoreapp3.1\Razor\Views\Transaction\Create.cshtml.g.cs
+c:\Users\JOBAYER\OneDrive\Tài liệu\CRUD_Operations_Using_AJAX\obj\Debug\netcoreapp3.1\Razor\Views\Transaction\Delete.cshtml.g.cs
