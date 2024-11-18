@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jQuery Ajax CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2ac3b57c30e73ff126bb6bd52733248ece70f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("jQuery Ajax CRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jQuery Ajax CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

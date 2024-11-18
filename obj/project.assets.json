@@ -5191,11 +5191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj",
       "projectName": "jQuery Ajax CRUD",
-      "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj",
+      "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj",
       "packagesPath": "C:\\Users\\JOBAYER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\obj\\",
+      "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOBAYER\\AppData\\Roaming\\NuGet\\NuGet.Config"

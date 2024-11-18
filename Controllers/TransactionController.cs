@@ -23,6 +23,12 @@ namespace jQuery_Ajax_CRUD.Controllers
         {
             return View(await _context.Transactions.ToListAsync());
         }
+        public IActionResult Details(int id)
+        {
+            var tran_sec = _context.Transactions.Find(id);
+            if(tran_sec == null) return NotFound();
+            return View(tran_sec);
+        }
 
         
         [NoDirectAccess]

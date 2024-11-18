@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj": {}
+    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj": {}
   },
   "projects": {
-    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj": {
+    "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj",
+        "projectUniqueName": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj",
         "projectName": "jQuery Ajax CRUD",
-        "projectPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\jQuery Ajax CRUD.csproj",
+        "projectPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\jQuery Ajax CRUD.csproj",
         "packagesPath": "C:\\Users\\JOBAYER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\jQuery Ajax CRUD\\obj\\",
+        "outputPath": "c:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\CRUD_Operations_Using_AJAX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOBAYER\\AppData\\Roaming\\NuGet\\NuGet.Config"

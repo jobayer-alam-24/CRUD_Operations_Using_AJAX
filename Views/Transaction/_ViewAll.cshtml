@@ -48,6 +48,7 @@
                                     <input type="hidden" asp-for="@item.TransactionId" />
                                     <input type="submit" value="Delete" class="btn btn-danger" />
                                 </form>
+                                 <a asp-asp-controller="Transaction" asp-action="Details" role="button" class="btn btn-info mt-3" asp-route-id="@item.TransactionId">Details</a>
                             </div>
                         </td>
                     </tr>

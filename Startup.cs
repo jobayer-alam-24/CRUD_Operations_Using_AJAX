@@ -52,6 +52,9 @@ namespace jQuery_Ajax_CRUD
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Transaction}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "details",
+                    pattern: "{controller=Transaction}/{action=Details}/{id?}");
             });
         }
     }
