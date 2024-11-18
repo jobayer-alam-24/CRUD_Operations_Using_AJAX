@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace CRUD_Operations_Using_AJAX
+namespace jQuery_Ajax_CRUD
 {
     public class Program
     {

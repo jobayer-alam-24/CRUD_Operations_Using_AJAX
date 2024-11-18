@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using CRUD_Operations_Using_AJAX.Models;
+using jQuery_Ajax_CRUD.Models;
 
-namespace CRUD_Operations_Using_AJAX.Controllers
+namespace jQuery_Ajax_CRUD.Controllers
 {
     public class HomeController : Controller
     {

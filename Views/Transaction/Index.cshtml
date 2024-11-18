@@ -1,20 +1,31 @@
-@model IEnumerable<CRUD_Operations_Using_AJAX.Models.Transaction>
-<h1 class="text-center"><i class="fas fa-comment-dollar text-success"></i>Transaction History</h1>
-    
+﻿@model IEnumerable<jQuery_Ajax_CRUD.Models.TransactionModel>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>@Html.DisplayNameFor(Model => Model.AccountNumber)</th>
-            <th>@Html.DisplayNameFor(Model => Model.BeneficiaryName)</th>
-            <th>@Html.DisplayNameFor(Model => Model.Date)</th>
-            <th>@Html.DisplayNameFor(Model => Model.Amount)</th>
-            <th>
-                <a asp-action="AddOrEdit" class="btn btn-success text-white">
-                    <i class="fas fa-random"></i>
-                    New Transaction
-                    </a>
-            </th>
-        <tr>                                                                                      
-    </thead>
-</table>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div id="view-all">
+    @await Html.PartialAsync("_ViewAll", Model)
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="form-modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

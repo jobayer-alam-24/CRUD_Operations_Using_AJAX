@@ -1,6 +1,6 @@
 using System;
 
-namespace CRUD_Operations_Using_AJAX.Models
+namespace jQuery_Ajax_CRUD.Models
 {
     public class ErrorViewModel
     {
